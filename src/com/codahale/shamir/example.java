@@ -21,7 +21,7 @@ class Example {
 		 try {
 			FileReader fr=new FileReader("out.txt");
 			
-			
+			checkcoolison(fr)l
 			
 			
 		} catch (FileNotFoundException e) {
